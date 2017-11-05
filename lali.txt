@@ -1,3 +1,7 @@
 csaa
 mégsincsbaj
+<<<<<<< HEAD
 megyünk tovább a masteren
+=======
+akkor próbáljuk újra
+>>>>>>> 9051509065a47123504e2be086d73fe946c00944
